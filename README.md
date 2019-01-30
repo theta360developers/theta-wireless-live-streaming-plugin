@@ -122,3 +122,6 @@ The names of products and services described in this document are trademarks or 
 * Wi-Fi™, Wi-Fi Certified Miracast, Wi-Fi Certified logo, Wi-Fi Direct, Wi-Fi Protected Setup, WPA, WPA 2 and Miracast are trademarks of the Wi-Fi Alliance.
 * The official name of Windows is Microsoft Windows Operating System.
 * All other trademarks belong to their respective owners.
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/wireless-live-streaming)
+
